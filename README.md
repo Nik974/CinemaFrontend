@@ -1,3 +1,5 @@
+# This is the initial prototype of the project. The project has since evolved into a team-based version with full functionality, which you can find here: https://github.com/Nik974/BiletUZfrontend
+
 # cinema-frontend
 
 This template should help get you started developing with Vue 3 in Vite.
